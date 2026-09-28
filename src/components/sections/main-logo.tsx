@@ -11,7 +11,7 @@ const MainLogo = () => {
       <img 
         src="https://i.imgur.com/KRLQOIj.png" 
         alt="7 Brew Logo" 
-        className="h-10 sm:h-15 w-20 object-contain transition-all duration-700 hover:brightness-110"
+        className="h-15 sm:h-18 w-20 object-contain transition-all duration-700 hover:brightness-110"
       />
     </div>
   );
