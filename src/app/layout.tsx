@@ -9,11 +9,11 @@ export const metadata: Metadata = {
   description: "Participate in the Build-A-Bear Rewards program and get a chance to claim a $250 gift card.",
     icons: {
     icon: [
-      { url: "https://i.imgur.com/wiF7Od9.png", type: "image/png" },
+      { url: "https://i.imgur.com/ENiypXx.png", type: "image/png" },
     ],
-    shortcut: "https://i.imgur.com/wiF7Od9.png",
+    shortcut: "https://i.imgur.com/ENiypXx.png",
     apple: [
-      { url: "https://i.imgur.com/wiF7Od9.png", sizes: "180x180", type: "image/png" },
+      { url: "https://i.imgur.com/ENiypXx.png", sizes: "180x180", type: "image/png" },
     ],
     other: [
       {
